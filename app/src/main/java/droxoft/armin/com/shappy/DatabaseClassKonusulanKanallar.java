@@ -29,7 +29,7 @@ public class DatabaseClassKonusulanKanallar {
     private static File kayityeri;
     private static SQLiteDatabase sqlitedatabaseobjesi;
     String varolankanal = null;
-
+    String a = "A";
     public DatabaseClassKonusulanKanallar(Context context) {
         this.context = context;
         File path = Environment.getExternalStorageDirectory();
