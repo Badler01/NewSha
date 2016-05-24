@@ -158,6 +158,7 @@ public class FacebookFragment extends Fragment {
             sharedtumisimkaydet(tumisim);
             sharedfirstnamekaydet(firstname);
             sharedlastnamekaydet(lastname);
+            //sadsdadsda
         }
     }
 
